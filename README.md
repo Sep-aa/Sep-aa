@@ -11,10 +11,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sep-Aa&theme=holi&no-frame=false&no-bg=true&margin-w=4)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sep-Aa&limit=5&theme=holi&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Sep-Aa&icon=5&color=0)](https://visitcount.itsvg.in)
 
